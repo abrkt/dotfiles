@@ -1,0 +1,14 @@
+org.jetbrains.android
+cucumber-groovy
+CloudFoundry
+cucumber-java
+Emma
+Heroku
+TestNG-J
+OpenShift
+cucumber
+Coverage
+org.jetbrains.plugins.gradle
+DevKit
+JUnit
+CloudBees

@@ -1,0 +1,31 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="language-level">
+      <project id="mis" values="JDK_1_6,JDK_1_8" />
+    </group>
+    <group name="module type">
+      <project id="mis" values="JAVA_MODULE" />
+    </group>
+    <group name="vcs">
+      <project id="mis" values="Git" />
+    </group>
+    <group name="frameworks">
+      <project id="mis" values="web" />
+    </group>
+    <group name="file-type">
+      <project id="mis" values="UNKNOWN,Properties,VTL,IDEA_PROJECT,JavaScript,CFML,IDEA_WORKSPACE,JAVA,PLAIN_TEXT,SQL,XML,UML,Manifest,JSHint,SWF,IDEA_MODULE,Perl,Native,Images,CSS,HTML,JSP,SCSS,JSON" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="mis" values="Project,Project" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="mis" values="DEFAULT" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ideaapp.started" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="2" />
+    </counts>
+  </component>
+</application>
