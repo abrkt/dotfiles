@@ -1,0 +1,14 @@
+<users>
+  <myUsers class="set">
+    <user>
+      <myName>rami</myName>
+      <myGroup>mis</myGroup>
+      <myDisplayName>rami</myDisplayName>
+      <myCanAccessMyFiles>false</myCanAccessMyFiles>
+      <myTransportCode>P2P</myTransportCode>
+    </user>
+  </myUsers>
+  <myGroups class="set">
+    <string>mis</string>
+  </myGroups>
+</users>

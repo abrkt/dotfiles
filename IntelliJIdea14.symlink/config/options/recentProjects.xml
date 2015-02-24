@@ -2,14 +2,15 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="$USER_HOME$/Workspaces/MubasherInfo/mis/mis.ipr" />
+        <option value="$USER_HOME$/Workspaces/MubasherInfo/mis-ui/mis-ui.ipr" />
+        <option value="$USER_HOME$/Workspaces/CSDiploma/OOP" />
+        <option value="$USER_HOME$/Workspaces/CSDiploma/DataStructures/DataStructures.ipr" />
+        <option value="$USER_HOME$/Workspaces/MubasherInfo/xprmnt/MuGrid/MuGrid.ipr" />
+        <option value="$USER_HOME$/Workspaces/MubasherInfo/mis-okoc/mis-okoc.ipr" />
+        <option value="$USER_HOME$/Workspaces/MubasherInfo/foremance/FroMance.ipr" />
+        <option value="$USER_HOME$/Workspaces/MubasherInfo/xprmnt/FroMance/FroMance.ipr" />
       </list>
     </option>
-    <option name="openPaths">
-      <list>
-        <option value="$USER_HOME$/Workspaces/MubasherInfo/mis/mis.ipr" />
-      </list>
-    </option>
-    <option name="lastPath" value="$USER_HOME$/Workspaces/MubasherInfo/mis/mis.ipr" />
+    <option name="lastPath" value="$USER_HOME$/Workspaces/MubasherInfo/mis-ui/mis-ui.ipr" />
   </component>
 </application>

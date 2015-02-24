@@ -1,0 +1,57 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>ui-btn-up-c</find>
+      <find>button</find>
+      <find>turno</find>
+      <find>الخاسرة</find>
+      <find>الشركات المتداولة</find>
+      <find>@mixin span</find>
+      <find>@mixin pad</find>
+      <find>Home/Home</find>
+      <find>card/card</find>
+      <find>:: L</find>
+      <find>Base</find>
+      <find>$.</find>
+      <find>compass</find>
+      <find>/financial</find>
+      <find>title=</find>
+      <find>\?_\=d+\'</find>
+      <find>getTopNews</find>
+      <find>serv</find>
+      <find>radio</find>
+      <find>]r</find>
+      <find>templateEngine</find>
+      <find>dev.app_path</find>
+      <find>category</find>
+      <find>date</find>
+      <find>''</find>
+      <find>.isEmpty()</find>
+      <find>randomBg</find>
+      <find>random</find>
+      <find>-ms</find>
+      <find>void</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'</replace>
+      <replace>$element</replace>
+      <replace>#</replace>
+      <replace>$mi-</replace>
+      <replace>card</replace>
+      <replace />
+      <replace>:: l</replace>
+      <replace>base</replace>
+      <replace>plugins.</replace>
+      <replace>/financial?_=</replace>
+      <replace>$1</replace>
+      <replace>].r</replace>
+      <replace>section</replace>
+      <replace>null</replace>
+      <replace>== null</replace>
+      <replace>Card</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$/Workspaces/MubasherInfo/mis-ui/portal-ui/src/main/resources/portal/src/lib/foundation/scss</dir>
+    </dirStrings>
+  </component>
+</application>

@@ -10,10 +10,10 @@
     <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
     <property name="DefaultHtmlDoctype.Refreshed" value="1" />
     <property name="installation.uid" value="86c6e1a1-6a65-4d3d-b5b4-1a5bd9bbc6c8" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/Workspaces/MubasherInfo/mis" />
-    <property name="last.imported.location" value="$USER_HOME$/Workspaces/MubasherInfo/mis" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Workspaces/MubasherInfo/foremance&#10;/Users/abrkt/Workspaces/MubasherInfo/xprmnt/FroMance&#10;/Users/abrkt/Workspaces/MubasherInfo/mis/portal-ui/src/main/resources/portal/src/lib/jquery/dist/jquery.js&#10;/Users/abrkt/Workspaces/MubasherInfo/mis/portal-ui/src/main/resources/portal/src/lib/highcharts-ng/dist/highcharts-ng.js&#10;/Users/abrkt/Downloads/intellij-java-google-style.xml&#10;/Users/abrkt/Tools/ApplicationServers/apache-tomcat-8.0.15&#10;/Users/abrkt/Workspaces/MubasherInfo/mis" />
+    <property name="last.imported.location" value="$USER_HOME$/Workspaces/MubasherInfo/foremance" />
     <property name="default.storage.format" value=".ipr (file based)" />
-    <property name="create.project.preferred.importer" value="Maven" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
     <property name="ProjectStructure.SecondLevelElements" value="0.2" />
     <property name="project.jdk.splitter" value="0.2" />
     <property name="toolwindow.stripes.buttons.info.shown" value="true" />
@@ -24,5 +24,34 @@
     <property name="Tests" value="Green" />
     <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
     <property name="ProjectStructure.TopLevelElements" value="0.15" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="RunConfigurable.dividerProportion" value="0.3" />
+    <property name="FindSplitterProportion" value="0.25" />
+    <property name="JSHintOptionsTreeView.MAIN_DIVIDER_PROPORTION" value="0.7" />
+    <property name="JSHintOptionsTreeView.RIGHT_DIVIDER_PROPORTION" value="0.7" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20.0" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0.0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1.0" />
+    <property name="PLUGIN_FILTER" value="c++&#10;c&#10;cpp&#10;moment&#10;angular" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.5" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="C/C++" />
+    <property name="nodejs_interpreter_version" value="0.10.35" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.14652015" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="FileTemplates.CurrentTab" value="Other" />
+    <property name="FileTemplates.SelectedTemplate" value="Html" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="class com.intellij.lang.properties.editor.ResourceBundleEditor.splitter" value="0.5" />
+    <property name="AppServerDKsEditor.splitterProportion" value="0.3" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="INSPECTION_FILTER_HISTORY" value="thy&#10;namespace&#10;html&#10;scss&#10;&quot;New in 14&quot;" />
+    <property name="com.intellij.openapi.editor.actions.MultiplePasteAction$1.splitter" value="0.3" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$1.splitter" value="0.3" />
   </component>
 </application>

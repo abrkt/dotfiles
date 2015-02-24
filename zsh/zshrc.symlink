@@ -39,3 +39,5 @@ done
 
 unset config_files
 function gi() { curl -L -s https://www.gitignore.io/api/$@ ;}
+
+eval "$(rbenv init -)"

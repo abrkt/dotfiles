@@ -4,5 +4,10 @@
     <toolWindow group="Web Deployment: Remote Host" />
     <toolWindow group="Flash app not compiled before launch" />
     <toolWindow group="Vcs Messages" />
+    <toolWindow group="Debugger messages" />
+    <toolWindow group="JavaScript debugger" />
+    <toolWindow group="JavaEE" />
+    <toolWindow group="HotSwap" />
+    <toolWindow group="Inspection Results" />
   </component>
 </application>
